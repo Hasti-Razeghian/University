@@ -6,6 +6,7 @@ class Professor(Person):
         super().__init__(name, family_name, prof_id)
         self.lectures = lectures
 
+    
 
     def give_grade():
         pass

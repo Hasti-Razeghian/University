@@ -13,5 +13,5 @@ def main():
              Professor('Hamed', 'Salehi', 2, [courses[1]])]
 
 
-    studs = [Student('Shima', 'Amiri', 1, 19, {courses[0]: 12, courses[1]: 16}),
-             Student('Farzad', 'Davoodi', 2, 24, {courses[1]: 14, courses[2]: 16})]
+    studs = [Student('Shima', 'Amiri', 1, 19, {courses[0]: None, courses[1]: None}),
+             Student('Farzad', 'Davoodi', 2, 24, {courses[1]: None, courses[2]: No})]
