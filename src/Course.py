@@ -4,5 +4,5 @@ class Course():
         self.name = course_name
         self.id = course_id
 
-    
-    
+    def course_dict(self):
+        return {'name': self.name, 'id': self.id}
