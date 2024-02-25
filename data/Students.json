@@ -5,8 +5,8 @@
         "id": 1,
         "age": 19,
         "grades": {
-            "Algorithm": null,
-            "Python": null
+            "Algorithm": 15,
+            "Python": 11
         }
     },
     {
