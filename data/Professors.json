@@ -1,0 +1,19 @@
+[
+    {
+        "name": "Ali",
+        "family_name": "Jalali",
+        "id": 1,
+        "lectures": [
+            "Algorithm",
+            "Network"
+        ]
+    },
+    {
+        "name": "Hamed",
+        "family_name": "Salehi",
+        "id": 2,
+        "lectures": [
+            "Python"
+        ]
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Shima",
+        "family_name": "Amiri",
+        "id": 1,
+        "age": 19,
+        "grades": {
+            "Algorithm": null,
+            "Python": null
+        }
+    },
+    {
+        "name": "Farzad",
+        "family_name": "Davoodi",
+        "id": 2,
+        "age": 24,
+        "grades": {
+            "Python": null,
+            "Network": null
+        }
+    }
+]

@@ -1,4 +1,4 @@
-import Person
+from src.Person import Person
 
 class Student(Person):
 
@@ -15,3 +15,6 @@ class Student(Person):
 
     def status():
         pass
+
+    def stu_dict(self):
+        return {'name': self.name, 'family_name':self.family_name, 'id': self.id, 'age':self.age, 'grades':self.grades}
